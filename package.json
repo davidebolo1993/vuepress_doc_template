@@ -1,0 +1,27 @@
+{
+  "name": "vue_documentation",
+  "version": "1.0.0",
+  "description": "Vuepress Documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidebolo1993/vuepress_doc_template.git"
+  },
+  "author": "Davide Bolognini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidebolo1993/vuepress_doc_template/issues"
+  },
+  "homepage": "https://github.com/davidebolo1993/vuepress_doc_template#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7",
+    "vuepress-theme-vt": "^0.4.2"
+  }
+}
+
+
