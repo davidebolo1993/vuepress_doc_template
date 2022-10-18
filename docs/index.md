@@ -2,6 +2,8 @@
 home: true
 actionText: Get Started
 actionLink: /introduction/introduction.html
+subActionText: Setup
+subActionLink: /setup/setup.html
 features:
   - title: Comprehensive
     details: Details
